@@ -7,6 +7,7 @@ CS50x 2023 study group
 | --------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------- |
 | [Introduction](https://cs50.harvard.edu/x/2023/)          | [Introduction](./notes/introduction.md) | [CS50课程介绍 & 本视频系列提供什么](https://www.bilibili.com/video/BV18k4y1K7fQ/)     |
 | [Week0 Scratch](https://cs50.harvard.edu/x/2023/weeks/0/) | [Week0 Scratch](./notes/week0.md)       | [二进制与编码 & 编程基本概念 & Scratch](https://www.bilibili.com/video/BV1x94y1B7qa/) |
+| [Week1 C](https://cs50.harvard.edu/x/2023/weeks/1/)       | [Week1 C](./notes/week1.md)             | [环境与工具准备：命令行篇](https://www.bilibili.com/video/BV1fk4y1G7BX/)              |
 
 ## 讨论区 & 提问/Discussion & Questions
 
