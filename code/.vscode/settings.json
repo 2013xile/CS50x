@@ -3,6 +3,7 @@
     "cs50.h": "c",
     "stdio.h": "c",
     "string": "c",
-    "iosfwd": "c"
+    "iosfwd": "c",
+    "limits.h": "c"
   }
 }
