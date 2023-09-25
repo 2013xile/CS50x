@@ -13,6 +13,6 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: "<!-- 请详细描述你的问题，操作步骤。并附上完整的报错信息截图，或其他有效信息。 -->"
+      value: "请详细描述你的问题，操作步骤。并附上完整的报错信息截图，或其他有效信息。"
     validations:
       required: true
