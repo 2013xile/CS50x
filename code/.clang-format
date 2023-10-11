@@ -1,0 +1,5 @@
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterControlStatement: Always
+  AfterFunction: true
+IndentWidth: 4
