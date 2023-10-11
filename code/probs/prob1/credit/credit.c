@@ -7,7 +7,7 @@ int main(void) {
   int size = 0;
   int first_digit;
   int second_digit;
-  int checksum;
+  int checksum = 0;
   long remain_digits = cc_number;
   // 计算算法的结果
   while (remain_digits > 0) {
