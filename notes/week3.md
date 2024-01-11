@@ -21,7 +21,7 @@ struct_name;
   - $\Omega$(n) - best case
   - $\theta$(n) - best case and worst case are the same
 
-![](./static/2024-01-11-20-52-32.png)
+![](./static/2024-01-11-21-01-22.png)
 
 - Search
   - linear search O(n)
@@ -29,7 +29,7 @@ struct_name;
     - sorted
     - $O(\log_{2}n)$ $\frac{n}{2^x} = 1$, x = O($\log_{2}n$)
 
-![](./static/2024-01-11-20-54-50.png)
+![](./static/2024-01-11-21-02-00.png)
 
 - Sorting 排序
 
